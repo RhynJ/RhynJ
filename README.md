@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @RhynJ
-- 👀 I’m interested in Bare-metal 
-- 🌱 I’m currently learning how bare-metal code for embeded systems
-- 💞️ I’m looking to collaborate on porjects that push technolgy forward. my primary interests are maritime and quality of life robotics
-- 📫 How to reach me? with money
+- 👀 I’m interested in embedded programming 
+- 🌱 I’m currently learning how better use embedded systems
+- 💞️ I’m looking to collaborate on projects that push technology forward. my primary interests are maritime and quality-of-life robotics
+- 📫 How to reach me? Money
 
 <!---
 RhynJ/RhynJ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
